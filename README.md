@@ -1,3 +1,1 @@
-\begin{center} <br>
-\includegraphics[width=8in]{Report.pdf} <br>
-\end{center}
+<img src="Report.pdf" alt="some text"  width="4200" height="4200">
